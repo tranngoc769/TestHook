@@ -1,7 +1,7 @@
 {
     "ref": "refs/heads/master",
-    "before": "dd680e6eba38a50a6b21ff8b3526e79a810025a8",
-    "after": "d5f302a107742b42a7303ed1dbba2a833bfcaf2a",
+    "before": "43729649fe762c5ef596ed68d3a12a1586beee0a",
+    "after": "23b9959d343485738a51d77925ba46233d32b054",
     "repository": {
         "id": 295091804,
         "node_id": "MDEwOlJlcG9zaXRvcnkyOTUwOTE4MDQ=",
@@ -71,14 +71,14 @@
         "releases_url": "https://api.github.com/repos/tranngoc769/TestHook/releases{/id}",
         "deployments_url": "https://api.github.com/repos/tranngoc769/TestHook/deployments",
         "created_at": 1599978257,
-        "updated_at": "2020-09-13T13:07:38Z",
-        "pushed_at": 1600047020,
+        "updated_at": "2020-09-14T09:44:51Z",
+        "pushed_at": 1600076855,
         "git_url": "git://github.com/tranngoc769/TestHook.git",
         "ssh_url": "git@github.com:tranngoc769/TestHook.git",
         "clone_url": "https://github.com/tranngoc769/TestHook.git",
         "svn_url": "https://github.com/tranngoc769/TestHook",
         "homepage": null,
-        "size": 5,
+        "size": 6,
         "stargazers_count": 0,
         "watchers_count": 0,
         "language": null,
@@ -128,61 +128,37 @@
     "deleted": false,
     "forced": false,
     "base_ref": null,
-    "compare": "https://github.com/tranngoc769/TestHook/compare/dd680e6eba38...d5f302a10774",
+    "compare": "https://github.com/tranngoc769/TestHook/compare/43729649fe76...23b9959d3434",
     "commits": [{
-            "id": "a4f7779502d008b5de1749f3204ccd593ece9b23",
-            "tree_id": "12886f52ed40d7c5a1cded5358afb1d49cfea258",
-            "distinct": true,
-            "message": "commit 1",
-            "timestamp": "2020-09-14T08:29:50+07:00",
-            "url": "https://github.com/tranngoc769/TestHook/commit/a4f7779502d008b5de1749f3204ccd593ece9b23",
-            "author": [
-                "Object"
-            ],
-            "committer": [
-                "Object"
-            ],
-            "added": [
-
-            ],
-            "removed": [
-
-            ],
-            "modified": [
-                "Array"
-            ]
-        },
-        {
-            "id": "d5f302a107742b42a7303ed1dbba2a833bfcaf2a",
-            "tree_id": "4a3a5eff3ed0c1af0a4537e258a8364280c4689f",
-            "distinct": true,
-            "message": "commit 2",
-            "timestamp": "2020-09-14T08:30:00+07:00",
-            "url": "https://github.com/tranngoc769/TestHook/commit/d5f302a107742b42a7303ed1dbba2a833bfcaf2a",
-            "author": [
-                "Object"
-            ],
-            "committer": [
-                "Object"
-            ],
-            "added": [
-
-            ],
-            "removed": [
-
-            ],
-            "modified": [
-                "Array"
-            ]
-        }
-    ],
-    "head_commit": {
-        "id": "d5f302a107742b42a7303ed1dbba2a833bfcaf2a",
-        "tree_id": "4a3a5eff3ed0c1af0a4537e258a8364280c4689f",
+        "id": "23b9959d343485738a51d77925ba46233d32b054",
+        "tree_id": "50f293540465ea107d931a3ab56063bb73f890e5",
         "distinct": true,
-        "message": "commit 2",
-        "timestamp": "2020-09-14T08:30:00+07:00",
-        "url": "https://github.com/tranngoc769/TestHook/commit/d5f302a107742b42a7303ed1dbba2a833bfcaf2a",
+        "message": "gt",
+        "timestamp": "2020-09-14T16:47:15+07:00",
+        "url": "https://github.com/tranngoc769/TestHook/commit/23b9959d343485738a51d77925ba46233d32b054",
+        "author": [
+            "Object"
+        ],
+        "committer": [
+            "Object"
+        ],
+        "added": [
+            "Array"
+        ],
+        "removed": [
+            "Array"
+        ],
+        "modified": [
+            "Array"
+        ]
+    }],
+    "head_commit": {
+        "id": "23b9959d343485738a51d77925ba46233d32b054",
+        "tree_id": "50f293540465ea107d931a3ab56063bb73f890e5",
+        "distinct": true,
+        "message": "gt",
+        "timestamp": "2020-09-14T16:47:15+07:00",
+        "url": "https://github.com/tranngoc769/TestHook/commit/23b9959d343485738a51d77925ba46233d32b054",
         "author": {
             "name": "Trần Ngọc Quang",
             "email": "56824077+tranngoc769@users.noreply.github.com",
@@ -194,13 +170,17 @@
             "username": "tranngoc769"
         },
         "added": [
-
+            "1",
+            "2",
+            "3"
         ],
         "removed": [
-
+            "add",
+            "add copy",
+            "add copy 2"
         ],
         "modified": [
-            "sample2.json"
+            "sample.json"
         ]
     }
 }
